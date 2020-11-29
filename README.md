@@ -1,5 +1,5 @@
 # techtalent-academy-python-projects
-List of projects created during my time with TechTalent Academy
+List of beginner projects created during my time with TechTalent Academy
 
 #Code to create a guessing random numbers game:
 https://gist.github.com/angongcelenica/693535b5cc9d2b51ffb3b7c6b8c6fadb
