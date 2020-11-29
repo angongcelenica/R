@@ -19,3 +19,4 @@ def mark_grade(mark):
 mark = int(input("Hello, please enter your mark: "))
 
 mark_grade(mark)
+https://gist.github.com/angongcelenica/693535b5cc9d2b51ffb3b7c6b8c6fadb
