@@ -9,12 +9,12 @@ R has mulitple built-in functions that you can be used for data input/output, st
 ![](https://github.com/angongcelenica/R/blob/main/R_images/rq3.png)
 ![](https://github.com/angongcelenica/R/blob/main/R_images/rq4%20(2).png)
 
-1[](https://github.com/angongcelenica/R/blob/main/R_images/rse1.png)
-1[](https://github.com/angongcelenica/R/blob/main/R_images/rse2.png)
+![](https://github.com/angongcelenica/R/blob/main/R_images/rse1.png)
+![](https://github.com/angongcelenica/R/blob/main/R_images/rse2.png)
 
-##R & Data Visualisations
+## R & Data Visualisations
 
-![](https://github.com/angongcelenica/R/blob/main/R_images/rs1.png)
 ![](https://github.com/angongcelenica/R/blob/main/R_images/rs2.png)
+![](https://github.com/angongcelenica/R/blob/main/R_images/rs1.png)
 ![](https://github.com/angongcelenica/R/blob/main/R_images/rs3.png)
 ![](https://github.com/angongcelenica/R/blob/main/R_images/rs4.png)
