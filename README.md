@@ -4,4 +4,4 @@ R is an Integrated Programming Environment (IDE) mainly used for statistical dat
 ![](https://github.com/angongcelenica/R/blob/main/R_images/rq1.png)
 ![](https://github.com/angongcelenica/R/blob/main/R_images/rq2.png)
 ![](https://github.com/angongcelenica/R/blob/main/R_images/rq3.png)
-![](https://github.com/angongcelenica/R/blob/main/R_images/rq4(2).png)
+![](https://github.com/angongcelenica/R/blob/main/R_images/rq4%20(2).png)
