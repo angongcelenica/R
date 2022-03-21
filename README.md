@@ -13,7 +13,7 @@ R has mulitple built-in functions that you can be used for data input/output, st
 ![](https://github.com/angongcelenica/R/blob/main/R_images/rse2.png)
 
 ## Using R for Data Visualisations
-This is another example of using built in packages to simplify the data analysis process and in this case I demonstrated how I used 'ggplot2' to create my data visualisations. It is important to first import the ggplot library in order to activate the packages to enable the functions. As you can see I created some data frames to create vectors and matrices to build the foundation to start plotting the data on the graph.
+This is another example of using built in packages to simplify the data analysis process and in this case I demonstrated how I used 'ggplot2' to create my data visualisations. It is important to first import the ggplot library in order to activate the packages to enable the use of functions. As you can see I created some data frames, vectors and matrices to build the foundation to start plotting the data on the graph. This enabled me to create a histogram chart to visualise the weekly lateness frequency rates of employees, a scatter plot to show the attendence rates of students one schools were reopened, lastly a bar chart to visualise number of used cars sold in 2019 by car make.
 
 ![](https://github.com/angongcelenica/R/blob/main/R_images/rs2.png)
 ![](https://github.com/angongcelenica/R/blob/main/R_images/rs1.png)
